@@ -1,4 +1,4 @@
-#1.1. Kriptografija i sigurnost
+# 1.1. Kriptografija i sigurnost
 
 Kriptografija je znanost koja se bavi šifriranjem i dešifriranjem podataka kako bi se
 osigurala njihova povjerljivost, integritet i autentičnost. U današnjem digitalnom dobu,
@@ -11,7 +11,7 @@ zdravstvo, vojna industrija, komunikacije i mnogi drugi. Kriptografija pruža al
 i tehnike zaštite podataka od napada, omogućavajući sigurnu komunikaciju i
 skladištenje informacija.
 
-#1.2. Motivacija za istraživanje LUC kriptosustava
+# 1.2. Motivacija za istraživanje LUC kriptosustava
 
 Kako tehnologija napreduje, tako se i kriptografski algoritmi stalno razvijaju kako
 bi se suočili s rastućim izazovima sigurnosti. Motivacija za istraživanje novih
