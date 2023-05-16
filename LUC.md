@@ -1,3 +1,30 @@
+# Naslov: LUC kriptosustav: Analiza, primjena i sigurnost
+### Sadrzaj
+1. Uvod
+1.1. Kriptografija i sigurnost
+1.2. Motivacija za istraživanje LUC kriptosustava
+
+2. Osnovni principi LUC kriptosustava
+2.1. Matematički temelji
+2.2. Algoritamske komponente
+2.3. Prednosti i ograničenja LUC kriptosustava
+
+3. Primjene LUC kriptosustava
+3.1. Sigurno slanje poruka
+3.2. Digitalni potpisi
+3.3. Sigurno skladištenje podataka
+
+4. Sigurnost LUC kriptosustava
+4.1. Poznati napadi i slabosti
+4.2. Sigurnosne protumjere i poboljšanja
+4.3. Usporedba s drugim kriptografskim sustavima
+
+5. Zaključak
+
+6. Literatura
+
+
+
 # 1. Uvod
 ## 1.1. Kriptografija i sigurnost
 
@@ -121,18 +148,4 @@ J. Patarin. "Lattice-Based Cryptography: A Brief Overview." Proceedings of the I
 D. Stehlé, R. Steinfeld. "Lattice-Based Cryptography." In: Advances in Cryptology – ASIACRYPT 2019. Springer, 2019.
 
 J. Hoffstein, J. Pipher, J.H. Silverman. "An Introduction to Mathematical Cryptography." Springer Science & Business Media, 2014.
-
-V. Lyubashevsky. "Lattice-based Cryptography." Encyclopedia of Cryptography and Security, 2nd Edition. Springer, 2011.
-
-C. Peikert. "A Decade of Lattice Cryptography." Foundations and Trends® in Theoretical Computer Science, vol. 10, no. 4, 2015.
-
-A. Becker, A. Duc, A. Enge. "Lattice-based Cryptography." In: CRC Handbook of Cryptography. CRC Press, 2018.
-
-R. Lindner, C. Peikert. "Better Key Sizes (and Attacks) for LWE-Based Encryption." Advances in Cryptology – EUROCRYPT 2011. Springer, 2011.
-
-M. Ajtai. "Generating Hard Instances of Lattice Problems." Proceedings of the Twenty-Eighth Annual ACM Symposium on Theory of Computing, 1996.
-
-A. Lyubashevsky. "Lattice Cryptography for the Internet." Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications Security, 2014.
-
-P. Q. Nguyen, O. Regev. "Learning a Parallelepiped: Cryptanalysis of GGH and NTRU Signatures." Advances in Cryptology – CRYPTO 2006. Springer, 2006.
 
