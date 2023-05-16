@@ -1,28 +1,27 @@
 # Naslov: LUC kriptosustav: Analiza, primjena i sigurnost
 ### Sadrzaj
-1. Uvod
-    1.1. Kriptografija i sigurnost 
-    1.2. Motivacija za istraživanje LUC kriptosustava 
+1. Uvod  <br>
+  1.1. Kriptografija i sigurnost <br>
+  1.2. Motivacija za istraživanje LUC kriptosustava <br>
 
+2. Osnovni principi LUC kriptosustava  <br>
+  2.1. Matematički temelji <br>
+  2.2. Algoritamske komponente <br>
+  2.3. Prednosti i ograničenja LUC kriptosustava <br>
 
-2. Osnovni principi LUC kriptosustava
-   1. Matematički temelji
-2. 2. Algoritamske komponente
-3. 3. Prednosti i ograničenja LUC kriptosustava
+3. Primjene LUC kriptosustava <br>
+3.1. Sigurno slanje poruka <br>
+3.2. Digitalni potpisi <br>
+3.3. Sigurno skladištenje podataka <br>
 
-4. Primjene LUC kriptosustava
-5. 1. Sigurno slanje poruka
-6. 2. Digitalni potpisi
-7.  3. Sigurno skladištenje podataka
+4. Sigurnost LUC kriptosustava <br>
+4.1. Poznati napadi i slabosti <br>
+4.2. Sigurnosne protumjere i poboljšanja <br>
+4.3. Usporedba s drugim kriptografskim sustavima <br>
 
-8.  Sigurnost LUC kriptosustava
-9.  1. Poznati napadi i slabosti
-10. 2. Sigurnosne protumjere i poboljšanja
-11. 3. Usporedba s drugim kriptografskim sustavima
+5. Zaključak <br>
 
-12. Zaključak
-
-13. Literatura
+6. Literatura <br>
 
 
 
