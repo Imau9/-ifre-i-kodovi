@@ -27,16 +27,6 @@
 
 # 1. Uvod
 ## 1.1. Kriptografija i sigurnost
-<p style="text-align: center;">Kriptografija je znanost koja se bavi šifriranjem i dešifriranjem podataka kako bi se
-osigurala njihova povjerljivost, integritet i autentičnost. U današnjem digitalnom dobu,
-gdje se sve više informacija prenosi putem računalnih mreža i pohranjuje u elektroničkom
-obliku, sigurnost postaje ključna komponenta kako bi se zaštitili osjetljivi podaci od
-neovlaštenog pristupa i manipulacije.
-
-Sigurnost podataka je od vitalnog značaja u mnogim sektorima, kao što su bankarstvo,
-zdravstvo, vojna industrija, komunikacije i mnogi drugi. Kriptografija pruža alate
-i tehnike zaštite podataka od napada, omogućavajući sigurnu komunikaciju i
-skladištenje informacija.</p>
 
 Kriptografija je znanost koja se bavi šifriranjem i dešifriranjem podataka kako bi se
 osigurala njihova povjerljivost, integritet i autentičnost. U današnjem digitalnom dobu,
